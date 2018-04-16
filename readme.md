@@ -53,7 +53,7 @@ ___
 
 ***
 
-### Buletted lists
+### Bulleted lists
 
 * item one
 * item two
